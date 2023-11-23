@@ -19,8 +19,4 @@ The website is built using the following technologies:
 * JavaScript
 # Getting Started
 To get started with the website, simply download or clone the repository to your local machine. Then, open the [index.html](https://github.com/developerpradeepofficial/neuomorphic-Portfolio/blob/main/index.html) file in your web browser to view the website.
-# License
-This project is licensed under the MIT License. See the LICENSE file for more information.
-# Contact
-If you have any questions or comments about the website, feel free to contact me at pradeepsaridha@gmail.com .
-![image](https://user-images.githubusercontent.com/79619944/219941269-0eb58bcd-3367-4c0a-ba2f-7363a81dc857.png)
+
